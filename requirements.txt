@@ -1,0 +1,8 @@
+keras
+tensorflow
+spotipy
+beautifulsoup4
+requests
+textblob
+streamlit
+lyricsgenius
